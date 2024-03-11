@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643321813 source:c:\users\hp\documents\code produit matriciel\main.c
+	<stdio.h>
+	<stdlib.h>
+

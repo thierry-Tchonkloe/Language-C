@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647778423 source:c:\users\hp\documents\operatrion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

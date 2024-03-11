@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642200535 source:c:\users\hp\documents\interieur carré ouvert\main.c
+	<stdio.h>
+	<stdlib.h>
+

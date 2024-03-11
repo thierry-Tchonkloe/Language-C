@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642453852 source:c:\users\hp\documents\cercle inverse\main.c
+	<stdio.h>
+	<stdlib.h>
+

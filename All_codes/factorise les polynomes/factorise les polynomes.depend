@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643362258 source:c:\users\hp\documents\factorise les polynomes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

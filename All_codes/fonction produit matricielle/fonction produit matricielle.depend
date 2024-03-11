@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643131727 source:c:\users\hp\documents\fonction produit matricielle\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643363654 source:c:\users\hp\documents\triangle isocel\main.c
+	<stdio.h>
+	<stdlib.h>
+

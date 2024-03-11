@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1643323487 source:c:\users\hp\documents\fibogeoari pointeur\main.c
+	<stdio.h>
+	<stdlib.h>
+	"suite.h"
+
+1643129179 c:\users\hp\documents\fibogeoari pointeur\suite.h
+
+1643238830 source:c:\users\hp\documents\fibogeoari pointeur\suite.c
+

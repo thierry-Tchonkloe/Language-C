@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641910744 source:c:\users\hp\documents\form irredutible\main.c
+	<stdio.h>
+	<stdlib.h>
+

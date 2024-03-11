@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643239280 source:c:\users\hp\documents\aire de polygone\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

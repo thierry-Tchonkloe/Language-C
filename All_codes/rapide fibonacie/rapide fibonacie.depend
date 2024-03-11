@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646785999 source:c:\users\hp\documents\rapide fibonacie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

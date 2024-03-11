@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643757484 source:c:\users\hp\documents\somme de suite\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sommesuite.h"
+
+1643756866 source:c:\users\hp\documents\somme de suite\sommesuite.c
+	<stdio.h>
+	<stdlib.h>
+
+1643755193 c:\users\hp\documents\somme de suite\sommesuite.h
+

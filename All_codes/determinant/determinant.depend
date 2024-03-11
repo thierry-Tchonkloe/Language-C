@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646214426 source:c:\users\hp\documents\determinant\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646248657 source:c:\users\hp\documents\temporaire esposant\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

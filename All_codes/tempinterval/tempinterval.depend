@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648384568 source:c:\users\hp\documents\tempinterval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

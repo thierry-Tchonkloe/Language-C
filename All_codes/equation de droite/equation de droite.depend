@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644612955 source:c:\users\hp\documents\equation de droite\main.c
+	<stdio.h>
+	<stdlib.h>
+

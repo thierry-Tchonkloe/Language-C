@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643302773 source:c:\users\hp\documents\cercle net\main.c
+	<stdio.h>
+	<stdlib.h>
+
